@@ -6,4 +6,4 @@ I know that life is difficult and unfair, full of comparisons. I have given up s
 
 Still a beginner with VIM!
 
-![executedd GitHub stats](https://github-readme-stats.vercel.app/api?username=executedd&theme=dark&show_icons=true)
+![executedd GitHub stats](https://github-readme-stats.vercel.app/api?username=executed&theme=dark&show_icons=true)
