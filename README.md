@@ -1,6 +1,6 @@
 ## XRDS.
 Hello, my name is Flávio.
-I am currently studying Rust and always trying to improve every day.
+I am currently studying and always trying to improve every day.
 
 I know that life is difficult and unfair, full of comparisons. I have given up several times, but I always come back, trying to study and focus on this path...
 
